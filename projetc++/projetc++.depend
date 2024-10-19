@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1728657158 source:c:\users\marck\desktop\cour\programation oop\projetc++\main.cpp
+	<iostream>
+	"add.h"
+	"sub.h"
+	"mult.h"
+	"div.h"
+	"cst.h"
+
+1728656063 source:c:\users\marck\desktop\cour\programation oop\projetc++\src\cst.cpp
+	"cst.h"
+	<iostream>
+
+1728654989 c:\users\marck\desktop\cour\programation oop\projetc++\include\cst.h
+	"expression.h"
+
+1728651335 c:\users\marck\desktop\cour\programation oop\projetc++\include\expression.h
+
+1728649465 source:c:\users\marck\desktop\cour\programation oop\projetc++\src\expression.cpp
+	"expression.h"
+
+1728649798 source:c:\users\marck\desktop\cour\programation oop\projetc++\src\operateur.cpp
+	"operateur.h"
+
+1728653614 c:\users\marck\desktop\cour\programation oop\projetc++\include\operateur.h
+	"expression.h"
+
+1728654633 source:c:\users\marck\desktop\cour\programation oop\projetc++\src\add.cpp
+	"add.h"
+	<iostream>
+
+1728655601 c:\users\marck\desktop\cour\programation oop\projetc++\include\add.h
+	"operateur.h"
+
+1728657180 source:c:\users\marck\desktop\cour\programation oop\projetc++\src\div.cpp
+	"div.h"
+	<iostream>
+
+1728657155 c:\users\marck\desktop\cour\programation oop\projetc++\include\div.h
+	"operateur.h"
+
+1728654741 source:c:\users\marck\desktop\cour\programation oop\projetc++\src\mult.cpp
+	"mult.h"
+	<iostream>
+
+1728655784 c:\users\marck\desktop\cour\programation oop\projetc++\include\mult.h
+	"operateur.h"
+
+1728654752 source:c:\users\marck\desktop\cour\programation oop\projetc++\src\sub.cpp
+	"sub.h"
+	<iostream>
+
+1728655775 c:\users\marck\desktop\cour\programation oop\projetc++\include\sub.h
+	"operateur.h"
+
+1728656064 source:c:\users\marck\desktop\cour\projetc++\src\cst.cpp
+	"cst.h"
+	<iostream>
+
+1728654990 c:\users\marck\desktop\cour\projetc++\include\cst.h
+	"expression.h"
+
+1728651336 c:\users\marck\desktop\cour\projetc++\include\expression.h
+
+1728649466 source:c:\users\marck\desktop\cour\projetc++\src\expression.cpp
+	"expression.h"
+
+1728649800 source:c:\users\marck\desktop\cour\projetc++\src\operateur.cpp
+	"operateur.h"
+
+1728653616 c:\users\marck\desktop\cour\projetc++\include\operateur.h
+	"expression.h"
+
+1729358342 source:c:\users\marck\desktop\cour\projetc++\src\soustraction.cpp
+	"soustraction.h"
+	<iostream>
+
+1729358342 c:\users\marck\desktop\cour\projetc++\include\soustraction.h
+	"operateur.h"
+
+1729358360 source:c:\users\marck\desktop\cour\projetc++\src\addition.cpp
+	"addition.h"
+	<iostream>
+
+1729358342 c:\users\marck\desktop\cour\projetc++\include\addition.h
+	"operateur.h"
+
+1729358399 source:c:\users\marck\desktop\cour\projetc++\src\multiplication.cpp
+	"multiplication.h"
+	<iostream>
+
+1729358342 c:\users\marck\desktop\cour\projetc++\include\multiplication.h
+	"operateur.h"
+
+1729358417 source:c:\users\marck\desktop\cour\projetc++\main.cpp
+	<iostream>
+	"addition.h"
+	"soustraction.h"
+	"multiplication.h"
+	"division.h"
+	"cst.h"
+
+1729358457 c:\users\marck\desktop\cour\projetc++\include\division.h
+	"operateur.h"
+
+1729358224 source:c:\users\marck\desktop\cour\projetc++\src\division.cpp
+	"division.h"
+	<iostream>
+
