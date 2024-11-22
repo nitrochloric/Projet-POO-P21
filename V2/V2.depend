@@ -1,0 +1,155 @@
+# depslib dependency file v1.0
+1728723401 source:c:\users\acer\desktop\c++\v2\src\expression.cpp
+	"Expression.h"
+
+1728729453 c:\users\acer\desktop\c++\v2\include\expression.h
+
+1728759208 source:c:\users\acer\desktop\c++\v2\src\operateur.cpp
+	"operateur.h"
+
+1728761572 c:\users\acer\desktop\c++\v2\include\operateur.h
+	"Expression.h"
+
+1728737888 source:c:\users\acer\desktop\c++\v2\src\addition.cpp
+	"addition.h"
+	<iostream>
+
+1728735467 source:c:\users\acer\desktop\c++\v2\src\constante.cpp
+	"constante.h"
+	<iostream>
+
+1728729763 c:\users\acer\desktop\c++\v2\include\constante.h
+	"Expression.h"
+
+1730488882 source:c:\users\acer\desktop\c++\v2\main.cpp
+	<iostream>
+	"constante.h"
+	"addition.h"
+	"division.h"
+	"operateur.h"
+	"soustraction.h"
+	"multiplication.h"
+	"Variable.h"
+
+1728729801 c:\users\acer\desktop\c++\v2\include\division.h
+	"operateur.h"
+
+1728729769 c:\users\acer\desktop\c++\v2\include\soustraction.h
+	"operateur.h"
+
+1728729758 c:\users\acer\desktop\c++\v2\include\multiplication.h
+	"operateur.h"
+
+1728761507 source:c:\users\acer\desktop\c++\v2\src\division.cpp
+	"division.h"
+	<iostream>
+	"constante.h"
+	"addition.h"
+	"soustraction.h"
+	"multiplication.h"
+
+1728760386 source:c:\users\acer\desktop\c++\v2\src\multiplication.cpp
+	"multiplication.h"
+	<iostream>
+	"constante.h"
+
+1728760317 source:c:\users\acer\desktop\c++\v2\src\soustraction.cpp
+	"soustraction.h"
+	"constante.h"
+	"addition.h"
+	"Variable.h"
+	<iostream>
+
+1728729766 c:\users\acer\desktop\c++\v2\include\addition.h
+	"operateur.h"
+	"constante.h"
+
+1728735313 c:\users\acer\desktop\c++\v2\include\variable.h
+	"Expression.h"
+	<string>
+	<iostream>
+
+1728736511 source:c:\users\acer\desktop\c++\v2\src\variable.cpp
+	<iostream>
+	<stdexcept>
+	"Variable.h"
+	"Expression.h"
+	<string>
+
+1732200687 source:c:\users\adamc\onedrive\bureau\projet_c++\c++\v2\main.cpp
+	<iostream>
+	"constante.h"
+	"addition.h"
+	"division.h"
+	"operateur.h"
+	"soustraction.h"
+	"multiplication.h"
+	"Variable.h"
+
+1732200422 c:\users\adamc\onedrive\bureau\projet_c++\c++\v2\include\constante.h
+	"Expression.h"
+
+1732200422 c:\users\adamc\onedrive\bureau\projet_c++\c++\v2\include\expression.h
+
+1732200422 c:\users\adamc\onedrive\bureau\projet_c++\c++\v2\include\addition.h
+	"operateur.h"
+	"constante.h"
+
+1732200422 c:\users\adamc\onedrive\bureau\projet_c++\c++\v2\include\operateur.h
+	"Expression.h"
+
+1732200422 c:\users\adamc\onedrive\bureau\projet_c++\c++\v2\include\division.h
+	"operateur.h"
+
+1732200422 c:\users\adamc\onedrive\bureau\projet_c++\c++\v2\include\soustraction.h
+	"operateur.h"
+
+1732200422 c:\users\adamc\onedrive\bureau\projet_c++\c++\v2\include\multiplication.h
+	"operateur.h"
+
+1732200422 c:\users\adamc\onedrive\bureau\projet_c++\c++\v2\include\variable.h
+	"Expression.h"
+	<string>
+	<iostream>
+
+1732284712 source:c:\users\adamc\onedrive\bureau\projet_c++\c++\v2\src\addition.cpp
+	"addition.h"
+	<iostream>
+
+1732200422 source:c:\users\adamc\onedrive\bureau\projet_c++\c++\v2\src\constante.cpp
+	"constante.h"
+	<iostream>
+
+1732200422 source:c:\users\adamc\onedrive\bureau\projet_c++\c++\v2\src\division.cpp
+	"division.h"
+	<iostream>
+	"constante.h"
+	"addition.h"
+	"soustraction.h"
+	"multiplication.h"
+
+1732200422 source:c:\users\adamc\onedrive\bureau\projet_c++\c++\v2\src\expression.cpp
+	"Expression.h"
+
+1732200422 source:c:\users\adamc\onedrive\bureau\projet_c++\c++\v2\src\multiplication.cpp
+	"multiplication.h"
+	<iostream>
+	"constante.h"
+
+1732200422 source:c:\users\adamc\onedrive\bureau\projet_c++\c++\v2\src\operateur.cpp
+	"operateur.h"
+
+1732200422 source:c:\users\adamc\onedrive\bureau\projet_c++\c++\v2\src\soustraction.cpp
+	"soustraction.h"
+	"constante.h"
+	"addition.h"
+	"Variable.h"
+	<iostream>
+
+1732200422 source:c:\users\adamc\onedrive\bureau\projet_c++\c++\v2\src\variable.cpp
+	<iostream>
+	<stdexcept>
+	"Variable.h"
+	"Expression.h"
+	<string>
+
