@@ -34,21 +34,21 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="include/add.h" />
+		<Unit filename="include/addition.h" />
 		<Unit filename="include/cst.h" />
-		<Unit filename="include/div.h" />
+		<Unit filename="include/division.h" />
 		<Unit filename="include/expression.h" />
-		<Unit filename="include/mult.h" />
+		<Unit filename="include/multiplication.h" />
 		<Unit filename="include/operateur.h" />
-		<Unit filename="include/sub.h" />
+		<Unit filename="include/soustraction.h" />
 		<Unit filename="main.cpp" />
-		<Unit filename="src/add.cpp" />
+		<Unit filename="src/addition.cpp" />
 		<Unit filename="src/cst.cpp" />
-		<Unit filename="src/div.cpp" />
+		<Unit filename="src/division.cpp" />
 		<Unit filename="src/expression.cpp" />
-		<Unit filename="src/mult.cpp" />
+		<Unit filename="src/multiplication.cpp" />
 		<Unit filename="src/operateur.cpp" />
-		<Unit filename="src/sub.cpp" />
+		<Unit filename="src/soustraction.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
