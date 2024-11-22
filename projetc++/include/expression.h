@@ -10,7 +10,7 @@ class expression
         virtual void afficher() = 0;
         virtual void afficher_pinv() = 0;
         virtual float calculer() = 0;
-
+		virtual expression* simplifier() = 0;
     protected:
 
     private:

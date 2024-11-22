@@ -41,6 +41,7 @@
 		<Unit filename="include/multiplication.h" />
 		<Unit filename="include/operateur.h" />
 		<Unit filename="include/soustraction.h" />
+		<Unit filename="include/variable.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/addition.cpp" />
 		<Unit filename="src/cst.cpp" />
@@ -49,6 +50,7 @@
 		<Unit filename="src/multiplication.cpp" />
 		<Unit filename="src/operateur.cpp" />
 		<Unit filename="src/soustraction.cpp" />
+		<Unit filename="src/variable.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

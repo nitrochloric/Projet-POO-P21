@@ -161,3 +161,78 @@
 	"soustraction.h"
 	<iostream>
 
+1732297691 source:c:\users\marck\desktop\cour\programation\projetc++\main.cpp
+	<iostream>
+	"addition.h"
+	"soustraction.h"
+	"multiplication.h"
+	"division.h"
+	"cst.h"
+	"operateur.h"
+	"variable.h"
+
+1732296078 c:\users\marck\desktop\cour\programation\projetc++\include\addition.h
+	"operateur.h"
+	"cst.h"
+
+1732284051 c:\users\marck\desktop\cour\programation\projetc++\include\operateur.h
+	"expression.h"
+
+1732295027 c:\users\marck\desktop\cour\programation\projetc++\include\expression.h
+
+1732296794 c:\users\marck\desktop\cour\programation\projetc++\include\soustraction.h
+	"operateur.h"
+	"cst.h"
+
+1732296704 c:\users\marck\desktop\cour\programation\projetc++\include\multiplication.h
+	"operateur.h"
+	"cst.h"
+
+1732295532 c:\users\marck\desktop\cour\programation\projetc++\include\division.h
+	"operateur.h"
+
+1732294915 c:\users\marck\desktop\cour\programation\projetc++\include\cst.h
+	"expression.h"
+
+1732296117 source:c:\users\marck\desktop\cour\programation\projetc++\src\addition.cpp
+	"addition.h"
+	<iostream>
+
+1732296204 source:c:\users\marck\desktop\cour\programation\projetc++\src\cst.cpp
+	"cst.h"
+	<iostream>
+
+1732296560 source:c:\users\marck\desktop\cour\programation\projetc++\src\division.cpp
+	"division.h"
+	<iostream>
+	"cst.h"
+	"addition.h"
+	"soustraction.h"
+	"multiplication.h"
+
+1732284051 source:c:\users\marck\desktop\cour\programation\projetc++\src\expression.cpp
+	"expression.h"
+
+1732296732 source:c:\users\marck\desktop\cour\programation\projetc++\src\multiplication.cpp
+	"multiplication.h"
+	<iostream>
+
+1732284051 source:c:\users\marck\desktop\cour\programation\projetc++\src\operateur.cpp
+	"operateur.h"
+
+1732296852 source:c:\users\marck\desktop\cour\programation\projetc++\src\soustraction.cpp
+	"soustraction.h"
+	<iostream>
+
+1732297658 c:\users\marck\desktop\cour\programation\projetc++\include\variable.h
+	"expression.h"
+	<string>
+	<iostream>
+
+1732297264 source:c:\users\marck\desktop\cour\programation\projetc++\src\variable.cpp
+	<iostream>
+	<stdexcept>
+	"variable.h"
+	"expression.h"
+	<string>
+

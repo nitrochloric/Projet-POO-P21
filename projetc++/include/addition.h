@@ -2,7 +2,7 @@
 #define addition_H
 
 #include "operateur.h"
-
+#include "cst.h"
 
 class addition : public operateur
 {
@@ -14,7 +14,7 @@ class addition : public operateur
         void afficher() override ;
         void afficher_pinv() override ;
         float calculer() override ;
-
+		expression* simplifier() override;
     protected:
 
     private:
