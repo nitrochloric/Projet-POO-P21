@@ -19,8 +19,8 @@ void inverse::afficher() {
 }
 
 void inverse::afficher_pinv() {
-    m_opg->afficher_pinv();
     cout << " 1/ ";
+    m_opg->afficher_pinv();
 }
 
 float inverse::calculer() {
