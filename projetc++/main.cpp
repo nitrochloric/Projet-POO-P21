@@ -15,15 +15,11 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
-
-    // Constantes utilisées dans les exemples
     cst c1(2);
     cst c2(3);
     cst c3(5);
     cst c4(1);
 
-    // Exemples existants
     addition a1(&c1, &c2);
     multiplication m1(&a1, &c3);
     soustraction s1(&m1, &c4);
@@ -55,15 +51,15 @@ int main()
     abs_val.afficher();
     cout << " = " << abs_val.calculer() << endl;
 
-    cout << "Log népérien: ";
+    cout << "Log nÃ©pÃ©rien: ";
     ln.afficher();
     cout << " = " << ln.calculer() << endl;
 
-    cout << "Carré: ";
+    cout << "CarrÃ©: ";
     sq.afficher();
     cout << " = " << sq.calculer() << endl;
 
-    cout << "Racine carrée: ";
+    cout << "Racine carrÃ©e: ";
     sqrt_val.afficher();
     cout << " = " << sqrt_val.calculer() << endl;
 
