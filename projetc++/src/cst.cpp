@@ -23,3 +23,7 @@ void cst::afficher_pinv(){
 float cst::calculer(){
     return m_valeur;
 }
+
+expression* cst::simplifier() {
+    return this; // Les constantes ne peuvent pas être simplifiées
+}

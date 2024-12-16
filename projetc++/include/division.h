@@ -14,6 +14,7 @@ class division : public operateur
         void afficher() override ;
         void afficher_pinv() override ;
         float calculer() override ;
+		expression* simplifier() override;
 
     protected:
 

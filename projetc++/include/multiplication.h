@@ -2,7 +2,7 @@
 #define multiplication_H
 
 #include "operateur.h"
-
+#include "cst.h"
 
 class multiplication : public operateur
 {
@@ -14,6 +14,7 @@ class multiplication : public operateur
         void afficher() override ;
         void afficher_pinv() override ;
         float calculer() override ;
+		expression* simplifier() override;
 
     protected:
 

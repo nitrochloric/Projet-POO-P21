@@ -2,7 +2,7 @@
 #define soustraction_H
 
 #include "operateur.h"
-
+#include "cst.h"
 
 class soustraction : public operateur
 {
@@ -14,6 +14,7 @@ class soustraction : public operateur
         void afficher() override ;
         void afficher_pinv() override ;
         float calculer() override ;
+		expression* simplifier() override;
 
     protected:
 

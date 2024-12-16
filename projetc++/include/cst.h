@@ -11,15 +11,15 @@ class cst : public expression
         cst(float arg){m_valeur = arg;}
         virtual ~cst();
 
-        unsigned float Getvaleur() { return m_valeur; }
-        void Setvaleur(unsigned float val) { m_valeur = val; }
+        float Getvaleur() { return m_valeur; }
+        void Setvaleur(float val) { m_valeur = val; }
 
-        unsigned float m_valeur;
+        float m_valeur;
 
         void afficher() override ;
         void afficher_pinv() override ;
         float calculer() override ;
-
+		expression* simplifier() override;
 
     protected:
 
