@@ -15,9 +15,9 @@ class addition : public operateur
         void afficher_pinv() override ;
         float calculer() override ;
 
-    protected:
+        protected:
 
-    private:
+        private:
 };
 
 #endif // addition_H

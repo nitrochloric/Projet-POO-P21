@@ -35,20 +35,32 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="include/addition.h" />
+		<Unit filename="include/carre.h" />
 		<Unit filename="include/cst.h" />
 		<Unit filename="include/division.h" />
 		<Unit filename="include/expression.h" />
+		<Unit filename="include/inverse.h" />
+		<Unit filename="include/log_neperien.h" />
 		<Unit filename="include/multiplication.h" />
 		<Unit filename="include/operateur.h" />
+		<Unit filename="include/oppose.h" />
+		<Unit filename="include/racine_carre.h" />
 		<Unit filename="include/soustraction.h" />
+		<Unit filename="include/valeur_absolue.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/addition.cpp" />
+		<Unit filename="src/carre.cpp" />
 		<Unit filename="src/cst.cpp" />
 		<Unit filename="src/division.cpp" />
 		<Unit filename="src/expression.cpp" />
+		<Unit filename="src/inverse.cpp" />
+		<Unit filename="src/log_neperien.cpp" />
 		<Unit filename="src/multiplication.cpp" />
 		<Unit filename="src/operateur.cpp" />
+		<Unit filename="src/oppose.cpp" />
+		<Unit filename="src/racine_carre.cpp" />
 		<Unit filename="src/soustraction.cpp" />
+		<Unit filename="src/valeur_absolue.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

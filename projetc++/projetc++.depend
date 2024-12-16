@@ -161,3 +161,108 @@
 	"soustraction.h"
 	<iostream>
 
+1733147259 source:c:\users\matth\onedrive\bureau\projet-poo-p21-groupe-8\projet-poo-p21-groupe-8\projetc++\main.cpp
+	<iostream>
+	"addition.h"
+	"soustraction.h"
+	"multiplication.h"
+	"division.h"
+	"cst.h"
+	"inverse.h"
+	"oppose.h"
+	"valeur_absolue.h"
+	"log_neperien.h"
+	"carre.h"
+	"racine_carre.h"
+
+1733146928 c:\users\matth\onedrive\bureau\projet-poo-p21-groupe-8\projet-poo-p21-groupe-8\projetc++\include\addition.h
+	"operateur.h"
+
+1733129453 c:\users\matth\onedrive\bureau\projet-poo-p21-groupe-8\projet-poo-p21-groupe-8\projetc++\include\operateur.h
+	"expression.h"
+
+1733129452 c:\users\matth\onedrive\bureau\projet-poo-p21-groupe-8\projet-poo-p21-groupe-8\projetc++\include\expression.h
+
+1733129453 c:\users\matth\onedrive\bureau\projet-poo-p21-groupe-8\projet-poo-p21-groupe-8\projetc++\include\soustraction.h
+	"operateur.h"
+
+1733129453 c:\users\matth\onedrive\bureau\projet-poo-p21-groupe-8\projet-poo-p21-groupe-8\projetc++\include\multiplication.h
+	"operateur.h"
+
+1733129452 c:\users\matth\onedrive\bureau\projet-poo-p21-groupe-8\projet-poo-p21-groupe-8\projetc++\include\division.h
+	"operateur.h"
+
+1733129452 c:\users\matth\onedrive\bureau\projet-poo-p21-groupe-8\projet-poo-p21-groupe-8\projetc++\include\cst.h
+	"expression.h"
+
+1733129454 source:c:\users\matth\onedrive\bureau\projet-poo-p21-groupe-8\projet-poo-p21-groupe-8\projetc++\src\multiplication.cpp
+	"multiplication.h"
+	<iostream>
+
+1733129454 source:c:\users\matth\onedrive\bureau\projet-poo-p21-groupe-8\projet-poo-p21-groupe-8\projetc++\src\operateur.cpp
+	"operateur.h"
+
+1733129454 source:c:\users\matth\onedrive\bureau\projet-poo-p21-groupe-8\projet-poo-p21-groupe-8\projetc++\src\addition.cpp
+	"addition.h"
+	<iostream>
+
+1733129454 source:c:\users\matth\onedrive\bureau\projet-poo-p21-groupe-8\projet-poo-p21-groupe-8\projetc++\src\cst.cpp
+	"cst.h"
+	<iostream>
+
+1733129454 source:c:\users\matth\onedrive\bureau\projet-poo-p21-groupe-8\projet-poo-p21-groupe-8\projetc++\src\division.cpp
+	"division.h"
+	<iostream>
+
+1733129454 source:c:\users\matth\onedrive\bureau\projet-poo-p21-groupe-8\projet-poo-p21-groupe-8\projetc++\src\expression.cpp
+	"expression.h"
+
+1733129455 source:c:\users\matth\onedrive\bureau\projet-poo-p21-groupe-8\projet-poo-p21-groupe-8\projetc++\src\soustraction.cpp
+	"soustraction.h"
+	<iostream>
+
+1733145708 c:\users\matth\onedrive\bureau\projet-poo-p21-groupe-8\projet-poo-p21-groupe-8\projetc++\include\inverse.h
+	"operateur.h"
+
+1733146042 c:\users\matth\onedrive\bureau\projet-poo-p21-groupe-8\projet-poo-p21-groupe-8\projetc++\include\oppose.h
+	"operateur.h"
+
+1733146152 c:\users\matth\onedrive\bureau\projet-poo-p21-groupe-8\projet-poo-p21-groupe-8\projetc++\include\valeur_absolue.h
+	"operateur.h"
+
+1733145986 c:\users\matth\onedrive\bureau\projet-poo-p21-groupe-8\projet-poo-p21-groupe-8\projetc++\include\log_neperien.h
+	"operateur.h"
+
+1733145812 c:\users\matth\onedrive\bureau\projet-poo-p21-groupe-8\projet-poo-p21-groupe-8\projetc++\include\carre.h
+	"operateur.h"
+
+1733146924 c:\users\matth\onedrive\bureau\projet-poo-p21-groupe-8\projet-poo-p21-groupe-8\projetc++\include\racine_carre.h
+	"operateur.h"
+
+1733145570 source:c:\users\matth\onedrive\bureau\projet-poo-p21-groupe-8\projet-poo-p21-groupe-8\projetc++\src\carre.cpp
+	"carre.h"
+	<iostream>
+
+1733145753 source:c:\users\matth\onedrive\bureau\projet-poo-p21-groupe-8\projet-poo-p21-groupe-8\projetc++\src\inverse.cpp
+	"inverse.h"
+	<iostream>
+
+1733145920 source:c:\users\matth\onedrive\bureau\projet-poo-p21-groupe-8\projet-poo-p21-groupe-8\projetc++\src\log_neperien.cpp
+	"log_neperien.h"
+	<iostream>
+	<cmath>
+
+1733145492 source:c:\users\matth\onedrive\bureau\projet-poo-p21-groupe-8\projet-poo-p21-groupe-8\projetc++\src\racine_carre.cpp
+	"racine_carre.h"
+	<iostream>
+	<cmath>
+
+1733147168 source:c:\users\matth\onedrive\bureau\projet-poo-p21-groupe-8\projet-poo-p21-groupe-8\projetc++\src\valeur_absolue.cpp
+	"valeur_absolue.h"
+	<iostream>
+	<cmath>
+
+1733147187 source:c:\users\matth\onedrive\bureau\projet-poo-p21-groupe-8\projet-poo-p21-groupe-8\projetc++\src\oppose.cpp
+	"oppose.h"
+	<iostream>
+
