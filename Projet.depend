@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1584209020 source:c:\users\sami\documents\isen\informatique\poo\projet\main.cpp
+	<iostream>
+
+1728651481 source:c:\users\sami\documents\isen\informatique\poo\projet\src\expression.cpp
+	"Expression.h"
+
+1728651624 c:\users\sami\documents\isen\informatique\poo\projet\include\expression.h
+
+1728651664 source:c:\users\sami\documents\isen\informatique\poo\projet\src\constante.cpp
+	"Constante.h"
+
+1728653337 c:\users\sami\documents\isen\informatique\poo\projet\include\constante.h
+	<Expression.h>
+	<iostream>
+
+1728653541 source:c:\users\sami\documents\isen\informatique\poo\projet\src\operateur.cpp
+	"Operateur.h"
+
+1728654160 c:\users\sami\documents\isen\informatique\poo\projet\include\operateur.h
+	<Expression.h>
+
+1728655210 source:c:\users\sami\documents\isen\informatique\poo\projet\src\addition.cpp
+	"Addition.h"
+
+1728655204 c:\users\sami\documents\isen\informatique\poo\projet\include\addition.h
+	<Operateur.h>
+	<iostream>
+
